@@ -6,7 +6,7 @@ Project Elevate CRM aims to improve customer satisfaction with a new CRM system.
    - Project Elevate CRM
 
 2. **What are the goals of this project?**
-   - "The project's goals are to enhance customer satisfaction by implementing a new customer relationship management (CRM) system, streamline sales processes, and improve data analytics capabilities."
+   - The project's goals are to enhance customer satisfaction by implementing a new customer relationship management (CRM) system, streamline sales processes, and improve data analytics capabilities.
 
 3. **Why now?**
    - This project needs to be initiated now to address declining customer satisfaction scores, increased competition, and the need for better data-driven decision-making.
